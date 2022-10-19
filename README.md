@@ -1,2 +1,2 @@
-# Elf-Tale
-Elf Tale Part 1!
+# Elfic-Tale
+Elfic Tale Part 1!
